@@ -1,5 +1,5 @@
 # gabrieljude.com
 
-Under Progress
+A personal projects website built by me! 
 
-Current URL : https://www.gabrieljude.com
+URL : https://www.gabrieljude.com
